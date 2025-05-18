@@ -5,6 +5,7 @@ Then in cursor IDE, set up those keys in a .env file and create a virtual python
 
 As per the python file, we did three LLM calls.
 Some details: Used gpt-4o-mini model from OpenAI. 
+Most important part is to set up your python environment where you will use the keys to generate the reponses. 
 
 ## Call 1: Pick a business area in finance that has the potential for agentic AI solution
 ## Response 
